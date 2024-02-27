@@ -21,11 +21,11 @@ import ceoImg from "../assets/photo/ceo.png";
 // import tpmImg from "../assets/photo/tpm.png";
 import cooImg from "../assets/photo/coo.png";
 import leadImg from "../assets/photo/lead.png";
-import devopsImg from "../assets/photo/devops.png";
+// import devopsImg from "../assets/photo/devops.png";
 import uiuxImg from "../assets/photo/uiux.png";
 import designerImg from "../assets/photo/designer.png";
 import developerImg from "../assets/photo/developer.png";
-import robertImg from "../assets/photo/robert.png";
+// import robertImg from "../assets/photo/robert.png";
 import bruceImg from "../assets/photo/bruce.png";
 import farhanImg from "../assets/photo/farhan.png";
 import jingImg from "../assets/photo/jing.png";
@@ -200,21 +200,21 @@ export const aboutData = [
         link: "Linkedin",
         href: " https://www.linkedin.com/in/bruce-hamada-12a19a2b4/"
     },
-    {
-        image: devopsImg,
-        title: "Eduard Fyodorov",
-        detail: "Devops Engineer",
-        link: "Linkedin",
-        href: "https://www.linkedin.com/in/eduardfyodorov/"
+    // {
+    //     image: devopsImg,
+    //     title: "Eduard Fyodorov",
+    //     detail: "Devops Engineer",
+    //     link: "Linkedin",
+    //     href: "https://www.linkedin.com/in/eduardfyodorov/"
 
-    },
-    {
-        image: robertImg,
-        title: "Robert Martirosyan",
-        detail: "Full Stack Developer",
-        link: "Linkedin",
-        href: "https://www.linkedin.com/in/robert-martirosyan-0b15b823b/"
-    },
+    // },
+    // {
+    //     image: robertImg,
+    //     title: "Robert Martirosyan",
+    //     detail: "Full Stack Developer",
+    //     link: "Linkedin",
+    //     href: "https://www.linkedin.com/in/robert-martirosyan-0b15b823b/"
+    // },
     {
         image: designerImg,
         title: "Taras Oliinyk",

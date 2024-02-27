@@ -1,4 +1,4 @@
-# Dokdo.sh Frontend
+# Dokdo Frontend
 
 The Dokdo website is an innovative online platform designed to advertise and promote a wide range of products to potential customers.
 
@@ -19,7 +19,7 @@ The Dokdo website is an innovative online platform designed to advertise and pro
 
 Need to have installed before they can use your project.
 
-- Node.js (20.11.1)
+- Node.js (16.14)
 - yarn
 - mui (Material UI)
 ### Installation
@@ -27,7 +27,7 @@ Need to have installed before they can use your project.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dokdo-sh/Dokdo.sh-FE.git
+git clone https://github.com/dokdo-sh/dokdo-frontend.git
 ```
 
 2. Install packages
