@@ -59,3 +59,11 @@
     font-size: 57px;
     font-weight: bold;
 }
+@media(max-width: 450px){
+    .h0 {
+        font-size: 60px;
+    }
+    .h1{
+        font-size: 45px;
+    }
+}
