@@ -26,7 +26,7 @@ const Header = (props) => {
     const drawer = (
         <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center'}}>
             <Link to="/">
-                <Box component="img" src={logoIcon} sx={{width:80, paddingTop:2, height:60}}/>
+                <Box component="img" src={logoIcon} sx={{height:80, paddingTop:2}}/>
             </Link>
             <List>
                 {routes.map(({title, href}, key) =>

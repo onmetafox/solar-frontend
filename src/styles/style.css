@@ -238,6 +238,7 @@ header {
 .head-section {
   background-image: url("../assets/images/header-lg-bg.png");
   background-size: cover;
+  padding-top: 30px;
   /* align-items: center; */
 }
 
@@ -500,9 +501,6 @@ textarea::-webkit-scrollbar-thumb:hover {
 }
 @media (max-width: 400px) {
 
-  header {
-    height: 56px;
-  }
   .large {
     display: none !important;
   }
