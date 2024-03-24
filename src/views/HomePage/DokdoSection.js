@@ -12,7 +12,7 @@ const DokdoSection = () => {
                         <Box component="img" src={dokdoIcon} style={{width: '80%'}} />
                     </Grid>
                     <Grid item lg={7} md={12} sm={12} xs={12}>
-                        <Box className="h3 t-p">Dokdo is a business</Box>
+                        <Box className="h3 t-p">Solar Enterprises is a business</Box>
                         <Box className="h3 t-p">dedicated to enhancing</Box>
                         <Box className="h3 t-p fg">Solar Network's ecosystem.</Box>
                         <Box className="fs-s2 t-p p-tb-20">

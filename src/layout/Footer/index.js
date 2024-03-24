@@ -95,7 +95,7 @@ const Footer = () => {
                                 <Link  to="/home" className="ext-link t-body no-line m-tb-10">Home</Link>
                             </Grid>
                             <Grid item xs={4}>
-                                <ExternalLink icon={false} title="Telegram" href="https://t.me/dokdo_official" className="t-body no-line m-tb-10" />
+                                <ExternalLink icon={false} title="Telegram" href="https://t.me/solarenterprises" className="t-body no-line m-tb-10" />
                             </Grid>
                             <Grid item xs={4}>
                                 <Link  to="/terms" className="ext-link t-body no-line m-tb-10">Terms and Conditions</Link>
@@ -105,9 +105,9 @@ const Footer = () => {
                             <Grid item xs={4}>
                                 <Link to="/about" className="ext-link t-body no-line m-tb-10">Our team</Link>
                             </Grid>
-                            <Grid item xs={4}>
+                            {/* <Grid item xs={4}>
                                 <ExternalLink icon={false} title="X.com" href="https://x.com/dokdo_sh" className="t-body no-line m-tb-10" />
-                            </Grid>
+                            </Grid> */}
                             <Grid item xs={4}>
                                 <Link  to="/policy" className="ext-link t-body no-line m-tb-10">Privacy Policy</Link>
                             </Grid>
@@ -117,14 +117,14 @@ const Footer = () => {
                             <Grid item xs={4}>
                                 <Link title="Contact us" to="/contact" className="ext-link t-body no-line m-tb-10">Contact us</Link>
                             </Grid>
-                            <Grid item xs={4}>
+                            {/* <Grid item xs={4}>
                                 <ExternalLink icon={false} title="Linkedin" href="https://www.linkedin.com/company/dokdo-sh/" className="t-body no-line m-tb-10" />
-                            </Grid>
+                            </Grid> */}
                             
                         </Grid>
                         <Grid container>
                             <Grid item xs={4}>
-                                <ExternalLink icon={true} status="inactive" title="Blog" href="https://medium.com/@dokdo_sh" className="t-body no-line m-tb-10" />
+                                <ExternalLink icon={true} status="inactive" title="Blog" href="https://medium.com/@solarenterprises" className="t-body no-line m-tb-10" />
                             </Grid>
                             {/* <Grid item xs={4}>
                                 <ExternalLink icon={false} title="Github" href="/" className="t-p t-body no-line m-tb-10" />
@@ -132,7 +132,7 @@ const Footer = () => {
                         </Grid>
                     </Grid>
                 </Grid>
-                <Box sx={{textAlign:'center'}} className= "t-s t-body2 p-tb-40">@{currentYear} DOKDO. All rights reserved.</Box>
+                <Box sx={{textAlign:'center'}} className= "t-s t-body2 p-tb-40">@{currentYear} Solar Enterprises. All rights reserved.</Box>
             </Container>
         </Box>
     );

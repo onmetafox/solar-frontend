@@ -86,7 +86,7 @@ export const productData = [
     {
         button: "Platform for games",
         title: "tymt",
-        detail: "Developed by Dokdo, the same innovative minds behind District 53 Metaverse, tymt is a promising solution set to revolutionize the gaming industry. This next-generation game launcher bridges the gap between traditional and Web3 games, overcoming the challenges that have often hampered blockchain gaming.",
+        detail: "Developed by Solar Enterprises, the same innovative minds behind District 53 Metaverse, tymt is a promising solution set to revolutionize the gaming industry. This next-generation game launcher bridges the gap between traditional and Web3 games, overcoming the challenges that have often hampered blockchain gaming.",
         image: tymtIcon,
         link: "https://medium.com/@district53"
     },
@@ -104,19 +104,19 @@ export const joinData = [
         icon: tgIcon,
         title: "Community Chat",
         detail: "Feel free to ask any questions and have friendly chats with people from around the world.",
-        link: "https://t.me/dokdo_official "
+        link: "https://t.me/solarenterprises"
     },
-    {
-        icon: xIcon,
-        title: "X.com",
-        detail: "Stay tuned for the freshest news and updates from all around the ecosystem by following us.",
-        link: "https://x.com/dokdo_sh"
-    },
+    // {
+    //     icon: xIcon,
+    //     title: "X.com",
+    //     detail: "Stay tuned for the freshest news and updates from all around the ecosystem by following us.",
+    //     link: "https://x.com/dokdo_sh"
+    // },
     {
         icon: mediumIcon,
         title: "Medium blog",
         detail: "Please visit our Medium blog for the lastest articles and updates",
-        link: "https://medium.com/@dokdo_sh"
+        link: "https://medium.com/@solarenterprises"
     }
 
 ]
@@ -132,7 +132,7 @@ export const developerData = [
         icon: mediumIcon,
         title: "Medium blog",
         detail: "Please visit our Medium blog for the latest articles and updates.",
-        link: "https://medium.com/@dokdo_sh"
+        link: "https://medium.com/@solarenterprises"
     }
 ]
 

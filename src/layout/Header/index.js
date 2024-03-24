@@ -4,7 +4,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { useNavigate, Link, useLocation  } from 'react-router-dom';
 import Button from 'src/components/Button';
 
-import logoIcon from "../../assets/images/logo2.svg";
+import logoIcon from "../../assets/images/solar-logo.svg";
 import ItemMenu from 'src/components/ItemMenu';
 import routes from 'src/routes';
 import HeaderScroll from 'src/components/HeaderScroll';
@@ -40,7 +40,7 @@ const Header = (props) => {
                                 <Link to={href} className='link f-body' sx={{justifyContent:'center'}}><ListItemText primary={title} /></Link>
                             )}
                             {pathname !== href && href === '/blog' &&  ( <>
-                                <Link to={"https://medium.com/@dokdo_sh"} target='_blink' className='link f-body' sx={{justifyContent:'center'}}><ListItemText primary={title} /></Link>
+                                <Link to={"https://medium.com/@solarenterprises"} target='_blink' className='link f-body' sx={{justifyContent:'center'}}><ListItemText primary={title} /></Link>
                                 <img src={defaultLinkIcon} style={{margin:0}} alt='link'/>
                             </>
                             )}
