@@ -10,7 +10,7 @@ import solar4Icon from "../assets/images/solar4.png"
 import districtIcon  from "../assets/images/district.png";
 import tymtIcon from "../assets/images/tymt.png";
 import solarIcon from "../assets/images/solar.png";
-import xIcon from "../assets/icons/X.svg";
+// import xIcon from "../assets/icons/X.svg";
 import tgIcon from "../assets/icons/tg.svg";
 // import discordIcon from "../assets/icons/discord.svg";
 // import gitIcon from "../assets/icons/github.svg";
