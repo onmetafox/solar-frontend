@@ -1,6 +1,6 @@
-# Solar Enterprise Frontend
+# Solar Enterprises Frontend
 
-The Solar Enterprise website is an innovative online platform designed to advertise and promote a wide range of products to potential customers.
+The Solar Enterprises website is an innovative online platform designed to advertise and promote a wide range of products to potential customers.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ The Solar Enterprise website is an innovative online platform designed to advert
 
 Need to have installed before they can use your project.
 
-- Node.js (16.14)
+- Node.js (20.1.1)
 - yarn
 - mui (Material UI)
 ### Installation
