@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 
 import Button from 'src/components/Button';
-import logoIcon from "../../assets/images/logo2.svg";
+import logoIcon from "../../assets/images/solar-logo.svg";
 import checkIcon from "../../assets/icons/check.svg";
 import Input from 'src/components/Input';
 import ExternalLink from 'src/components/Link';

@@ -1,6 +1,6 @@
-# Dokdo Frontend
+# Solar Enterprise Frontend
 
-The Dokdo website is an innovative online platform designed to advertise and promote a wide range of products to potential customers.
+The Solar Enterprise website is an innovative online platform designed to advertise and promote a wide range of products to potential customers.
 
 ## Table of Contents
 
